@@ -7,11 +7,11 @@
 
   ## Description
  ![myweb](/Develop/public/icons/18screen.png) 
-  My web page :     https://zst199394.github.io/My_calendar_scheduler_web/
+  Go to the APP :     https://zst199394.github.io/My_calendar_scheduler_web/
 
   ## Table of contents
   - [Description](#Description)
-  - [Installation](#Installation)
+  - [Libraries](#Libraries)
   - [Usage](#Usage)
   - [License](#License)
   - [Contributing](#Contributing)
@@ -19,8 +19,17 @@
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
 
-  ## Installation
-   The installation instructions:    Use a library like Moment.js to work with dates and times. Moment.js has historically been the most popular date/time library but is no longer supported by its developers. However, you can still use it for this project, or you can look into one of the following alternatives:     - [Luxon](https://moment.github.io/luxon/)     - [Day.js](https://day.js.org/)     - [date-fns](https://date-fns.org/)     - [js-Joda](https://js-joda.github.io/js-joda/)
+  ## Libraries
+   * mongoose
+   * morgan
+   * MongoDB
+   * mongoose
+   * express
+   * html
+   * javascript
+   * life-server
+   * heroku
+     
 
   ## Usage
   This application will help an developer with a busy schedule to create a daily planner so they can add important events and todo lists to manage their time effectively.
