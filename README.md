@@ -8,7 +8,11 @@
   ## Description
  ![myweb](/Develop/public/icons/18screen.png) 
   Go to the APP :     https://zst199394.github.io/My_calendar_scheduler_web/
-
+  ```md
+  I am developing this Bank App so user can use it even without an internet connection.
+  Whenever the user inputs a withdrawal or deposit
+  Then that will be shown on the page, and added to their transaction history when their connection is back online.
+  ```
   ## Table of contents
   - [Description](#Description)
   - [Libraries](#Libraries)
@@ -32,7 +36,17 @@
      
 
   ## Usage
-  This application will help an developer with a busy schedule to create a daily planner so they can add important events and todo lists to manage their time effectively.
+  This application help user track their bank and be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+
+  Offline Functionality:
+
+  * Enter deposits offline
+
+  * Enter expenses offline
+
+  When brought back online:
+
+  * Offline entries should be added to tracker.
 
   ## Licence
  ![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?) 
