@@ -13,7 +13,6 @@
   ```
 
  ![myweb](/public/icons/18screen.png) 
-  Go to the APP :     https://zst199394.github.io/My_calendar_scheduler_web/
 
   ## Table of contents
   - [Description](#Description)
