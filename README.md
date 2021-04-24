@@ -12,7 +12,7 @@
   Then that will be shown on the page, and added to their transaction history when their connection is back online.
   ```
 
- ![myweb](/Develop/public/icons/18screen.png) 
+ ![myweb](/public/icons/18screen.png) 
   Go to the APP :     https://zst199394.github.io/My_calendar_scheduler_web/
 
   ## Table of contents
