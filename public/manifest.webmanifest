@@ -1,5 +1,5 @@
 {
-    "name": "Online/offline bank App",
+    "name": "Bank budget App",
     "short_name": "Bank App",
     "icons": [
       {
@@ -10,11 +10,6 @@
       {
         "src": "icons/icon-512x512.png",
         "sizes": "512x512",
-        "type": "image/png"
-      },
-      {
-        "src": "assets/images/icons/icon-128x128.png",
-        "sizes": "128x128",
         "type": "image/png"
       }
     ],
